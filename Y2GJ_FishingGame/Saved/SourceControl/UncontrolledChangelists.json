@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Player_UI.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/items/Item.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Shop_UI.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/Image/exim_fishing_rod.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/items/item1.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/PlayerState.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/Image/Nut_April_27.uasset",
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/popup_text.uasset",
 				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/FishingEnvironment.umap",
 				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset"
 			]
