@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/FishingEnvironment.umap",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset"
+			]
+		}
+	]
+}
