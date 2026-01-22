@@ -1503,3 +1503,8 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.01.22-11.05.28:594][494]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 65104.86 ms.
 [2026.01.22-11.05.28:702][494]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 65207.03 ms.
 [2026.01.22-11.05.36:337][494]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 72845.73 ms.
+[2026.01.22-11.05.46:483][494]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 82994.74 ms.
+[2026.01.22-11.05.56:252][494]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 92761.97 ms.
+[2026.01.22-11.05.58:368][494]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.22-11.05.58:582][494]LogExit: Exiting.
+[2026.01.22-11.05.58:615][494]Log file closed, 01/22/26 11:05:58
