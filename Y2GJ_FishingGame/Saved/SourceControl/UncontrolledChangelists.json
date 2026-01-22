@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/TestSceneDylan.umap",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Enums/Enum_Effects.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Enums/Enum_Requirements.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Structures/ST_Modules.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Enums/Enum_Type.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Datatables/DT_Modules.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Fishes/Enum_Fishes.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Fishes/Enum_FishEffects.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Fishes/ST_Fishes.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Fishes/DT_Fishes.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Widgets/WB_Test.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Enums/Enum_Names.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Widgets/WB_ModuleEdit.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Images/Card.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Widgets/WB_Card.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Widgets/WB_ModuleCards.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Widgets/WB_RodEdit.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Images/rod.uasset",
+				"C:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Dylan/Modules/Structures/ST_Reel.uasset"
+			]
+		}
+	]
+}
