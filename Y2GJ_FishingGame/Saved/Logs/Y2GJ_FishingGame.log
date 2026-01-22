@@ -2893,3 +2893,35 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.22-17.00.12:641][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4762.145508
 [2026.01.22-17.00.12:865][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.22-17.00.12:865][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4762.340332, Update Interval: 342.525696
+[2026.01.22-17.03.14:728][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.01.22-17.03.17:123][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.01.22-17.03.18:391][620]LogSlate: Window 'Save Content' being destroyed
+[2026.01.22-17.03.18:411][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-17.03.18:482][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.22-17.03.18:567][620]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.22-17.03.18:567][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.01.22-17.03.18:604][620]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.01.22-17.03.18:606][620]LogSavePackage: Moving 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/BP_FirstPersonCharacter8DE11895475E417B8510179596EF98ED.tmp' to 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.01.22-17.03.18:607][620]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Player_UI] ([2] browsable assets)...
+[2026.01.22-17.03.18:610][620]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Player_UI.Player_UI]
+[2026.01.22-17.03.18:610][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Player_UI]
+[2026.01.22-17.03.18:610][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Player_UI" FILE="D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Player_UI.uasset" SILENT=true
+[2026.01.22-17.03.18:639][620]LogSavePackage: Moving output files for package: /Game/UI/Player_UI
+[2026.01.22-17.03.18:640][620]LogSavePackage: Moving 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/Player_UIC3C203404B798BB18C99ABBD767266C9.tmp' to 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Player_UI.uasset'
+[2026.01.22-17.03.18:640][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/popup_text] ([2] browsable assets)...
+[2026.01.22-17.03.18:642][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/popup_text]
+[2026.01.22-17.03.18:642][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/popup_text" FILE="D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/popup_text.uasset" SILENT=true
+[2026.01.22-17.03.18:669][620]LogSavePackage: Moving output files for package: /Game/UI/popup_text
+[2026.01.22-17.03.18:669][620]LogSavePackage: Moving 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/popup_text5B5871A8405F5F33CE50C9B5588F4EA2.tmp' to 'D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/popup_text.uasset'
+[2026.01.22-17.03.18:689][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 278.674 ms (total: 528.709 ms)
+[2026.01.22-17.03.18:748][620]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.22-17.03.18:748][620]LogContentValidation: Enabled validators:
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-17.03.18:748][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-17.03.18:748][620]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.01.22-17.03.18:750][620]AssetCheck: /Game/UI/Player_UI Validating asset
+[2026.01.22-17.03.18:750][620]AssetCheck: /Game/UI/popup_text Validating asset
