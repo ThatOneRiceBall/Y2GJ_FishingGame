@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/FishingEnvironment.umap",
-				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset"
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/9Y/R63XNCIN8TY1GSOXC08TXD.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/M_PrototypeGrid1.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Materials/M_PrototypeGrid1.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Materials/Grid_Green.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Cylinder_ADDC2B46.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Materials/Grid_Blue.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Materials/M_Black.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Boolean_6FCA5A9E.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Materials/M_Brown.uasset"
 			]
 		}
 	]
