@@ -4853,3 +4853,29 @@ Sampler Limit: 32
 [2026.01.23-13.48.05:210][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.23-13.48.05:210][854]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2026.01.23-13.48.05:265][854]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.23-13.49.12:708][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.01.23-13.49.15:688][618]LogSlate: Window 'Save Content' being destroyed
+[2026.01.23-13.49.15:736][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-13.49.15:806][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote] ([1] browsable assets)...
+[2026.01.23-13.49.15:808][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote]
+[2026.01.23-13.49.15:834][618]LogSavePackage: Moving output files for package: /Game/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote
+[2026.01.23-13.49.15:834][618]LogSavePackage: Moving 'D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/M_DustMote6D2A68DC4671EADF9E50BBBFEE6337A9.tmp' to 'D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote.uasset'
+[2026.01.23-13.49.15:835][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow] ([1] browsable assets)...
+[2026.01.23-13.49.15:837][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow]
+[2026.01.23-13.49.15:855][618]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow
+[2026.01.23-13.49.15:855][618]LogSavePackage: Moving 'D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/M_SimpleGlowADB1ADBF4893D9AB8947F29B12F81973.tmp' to 'D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.uasset'
+[2026.01.23-13.49.15:875][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.891 ms (total: 1.23 sec)
+[2026.01.23-13.49.15:945][618]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.23-13.49.15:945][618]LogContentValidation: Enabled validators:
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-13.49.15:945][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-13.49.15:945][618]AssetCheck: /Game/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote Validating asset
+[2026.01.23-13.49.15:945][618]AssetCheck: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow Validating asset
+[2026.01.23-13.49.15:976][618]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.23-13.50.28:446][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10649.081055
+[2026.01.23-13.50.29:446][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.23-13.50.29:446][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10649.747070, Update Interval: 352.283691
