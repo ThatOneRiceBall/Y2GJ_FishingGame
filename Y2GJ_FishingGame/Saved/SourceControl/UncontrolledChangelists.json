@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/FishingEnvironment.umap",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Shop_UI.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/watersplash.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/images.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/NewNiagaraSystem.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/watersplash_m.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/NS_firework.uasset",
+				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/ID/C52B73T6TOVY42UEDBJ6CH.uasset",
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Player_UI.uasset",
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/items/Item.uasset",
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/Shop_UI.uasset",
@@ -14,9 +24,7 @@
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Assets/Image/Nut_April_27.uasset",
-				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/popup_text.uasset",
-				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/FishingEnvironment.umap",
-				"D:/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/Maps/_GENERATED/24778288/Box_A5301B79.uasset"
+				"D:/Fishing/Y2GJ_FishingGame/Y2GJ_FishingGame/Content/UI/popup_text.uasset"
 			]
 		}
 	]
